@@ -20,8 +20,8 @@ h2 {
 
 .icon {
   padding: 10px;
-  background: #333333;
-  color: white;
+  background: #0493f1;
+  color: rgb(7, 7, 7);
   min-width: 50px;
   text-align: center;
   font-family: "Poppins";
@@ -32,23 +32,23 @@ h2 {
   padding: 10px;
   outline: none;
   font-family: "Poppins";
-  border: 2px solid #333333;
+  border: 2px solid #0f0f0f;
 }
 
 .input-field:focus {
-  box-shadow: 0 0 10px #333333;
-  border: 2px solid #333333;
+  box-shadow: 0 0 10px #080808;
+  border: 2px solid #080808;
 }
 
 .input-wrapper textarea {
   padding: 1rem;
-  border: 2px solid #333333;
+  border: 2px solid #0c67f0;
 }
 
 .input-wrapper textarea:focus {
   outline: none;
-  box-shadow: 0 0 10px #333333;
-  border: 2px solid #333333;
+  box-shadow: 0 0 10px #0804f1;
+  border: 2px solid #0498c5;
 }
 
 .attachment-wrapper {
@@ -60,7 +60,7 @@ h2 {
 }
 
 .send-btn {
-  background-color: #333333;
+  background-color: #04349b;
   color: white;
   padding: 15px 20px;
   border: none;
